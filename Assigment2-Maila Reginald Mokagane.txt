@@ -1,0 +1,85 @@
+1.Software Engineering - is a descipline focused on the systematic development of high-quality software products using engineering priciples, methods and tools.They are involved in all stages of the software development life cycle, using programming languages, architecture and structural design to develop systems and software.eg A civil engineering in software is hard because software is intangible which make it difficult to comprehend and communicate thats why they are using Engineering processes to develop problem solutions.
+
+2.Phases of Software Development Life Cycle
+
+Requirements: Gathering and documenting user needs and system requirements.
+Design: Creating high-level detailed design of the software architecture and user interface
+Implementation: Writing code and building the software according to the design specifications.
+Testing: Conduct various tests to ensure the software meets quality standards and functional requirements.
+Deployment: Releasing the software to users or customers.
+Maintanance: Providing ongoing support, updates and enhancements to the software after deployment.
+
+3.Waterfall Model
+We put all Engineering process together in a sequence of software development life cycle.Is very predictive model need to know the requirements.
+It is not flexible for change of development cycle.
+It is not difficult when it comes to Market changes.
+
+
+Agile Model
+Iterative and incremental approach focused on flexibility, collaboration and responding to change.
+It is good for translation issues early.
+It is litle bit of unpredictaility to change.
+
+4.Requirements Engineering - is the process or product of the process Creating high-level descriptions distinguish between right and wrong of the system by capturing What not the How of the solution we are solving.
+
+Requirement include:
+Analysis and Design - involve understanding the requirements of the software ,designing its architecture and creating detailed technical specifications.
+Programming - Writing code to implement the design and functionality of the software.
+Testing - Verifiying that the software works as intended identifying and fixing any defects.
+Maintanance -Making changes to the software to adapt it to new requirements.
+Project management - planning, organizing and overseeing the development of the software, including managing resources, schedules and budgets.
+Quality Assurance
+Documentation
+Communication
+
+5.Concept of modularity in software design: 
+complex software is divided into smaller, independed modules such as functions, classess or components.
+You make your code more organized, reusable and maintainable.
+
+6.Different levels of software testing
+unit testing - They consist of individual methods and functions of the classes, components or modules used by your software. 
+Integration testing - this verify that different modules or services used by your application work well together
+System testing - It evaluate the overall functionality and performance of a complete and fully integrated software solution.
+Acceptance testing - verify if a system satisfies business requirements.
+
+It ensure security,dependability and high performance which lead to time savings, cost effectiveness.
+
+
+7.Version control system efficiently manages and tracks changes to code over time, facilitate team collaboration and project progress tracking.
+
+popular version control system
+1.Git
+2.Subversion
+
+
+8.Role of a software project manager - process of leading the work of a team to achieve all project goals within the given constraints.
+
+challenges include:
+Time delivery - keeps the project on schedule
+cost control - manages budget and prevents cost overruns
+Quality Assurance - Ensure the final product meets the required standards
+Resources management - Efficient use of resources
+Risk management - Identifies and mitigate risk
+Stakeholder satisfaction - Ensure that the needs and expectations of stakeholders are met
+
+9.Software maintanance - modification and updates of the software after delivery
+Maintanance activities involve modifying the software code,its documentation, user manuals and training materials.
+
+10.Ethical Considerations in Software Engineering:
+Bias amplification -creating algorithms or systems that exhibit bias or discrimination can raise ethical concerns.
+security vulnerability - developing software with known security flaws can pose ethical issues especially if it leads to data breaches or other security incidents.
+Privacy concern - Engineers may face ethical dilemmas related to the collection and use of personal data.
+
+Software Engineers can ensure they adhere to ethical standards in their work by:
+
+Adhearing to established ethical guidelines and standards set forth by professional organizations and regulatory bodies.
+Engaging in ethical decision-making processes when faced with dilemmas, considering the potential impact of their work on various stakeholders.
+Staying informed about ethical issues in their field through continuous training and education.
+Instituting ethical review processes for software development projects to identify and address potential ethical issues early in the development life cycle.
+Implementing ethical codes and standards within the software development process, such as incoporating privacy protections and security measures from outset.
+
+
+
+
+
+
